@@ -1,4 +1,4 @@
-# zirmi_flutter_stagemgmt
+# zirmi_flutter_statemgmt
 
 A new Flutter project.
 
